@@ -1,0 +1,16 @@
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\ydool\Desktop\Repos\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
